@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Akshay Praveen Nair]]></title>
+        <description><![CDATA[Akshay Praveen Nair]]></description>
+        <link>https://leerob.io</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 11 Jul 2021 11:03:17 GMT</lastBuildDate>
+        <atom:link href="https://leerob.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2019 Year in Review]]></title>
+            <description><![CDATA[Highlights and reflections on 2019 and a look forward to 2020.]]></description>
+            <link>https://leerob.io/blog/2019</link>
+            <guid isPermaLink="true">https://leerob.io/blog/2019</guid>
+            <pubDate>Thu, 26 Dec 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beginner’s Guide to the Programming Portfolio]]></title>
+            <description><![CDATA[Learn how to create your programming portfolio from the ground up, including tips and tricks I learned building my own.]]></description>
+            <link>https://leerob.io/blog/beginners-guide-to-the-programming-portfolio</link>
+            <guid isPermaLink="true">https://leerob.io/blog/beginners-guide-to-the-programming-portfolio</guid>
+            <pubDate>Fri, 24 Feb 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Benefits I Care About in 2019]]></title>
+            <description><![CDATA[Should you care about game rooms and beer on tap? How important is working remotely and a flexible schedule? I give my take on what benefits are important to me in 2019.]]></description>
+            <link>https://leerob.io/blog/benefits-i-care-about-in-2019</link>
+            <guid isPermaLink="true">https://leerob.io/blog/benefits-i-care-about-in-2019</guid>
+            <pubDate>Sat, 09 Feb 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analyzing 10+ Years of My Facebook Data]]></title>
+            <description><![CDATA[Which year was I the most active? Who has commented on my pictures the most? How many songs have I streamed?]]></description>
+            <link>https://leerob.io/blog/analyzing-10-years-of-facebook-data</link>
+            <guid isPermaLink="true">https://leerob.io/blog/analyzing-10-years-of-facebook-data</guid>
+            <pubDate>Wed, 04 Apr 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building My First Electron App]]></title>
+            <description><![CDATA[Learn how I created a simple application to convert and download YouTube videos as MP3s.]]></description>
+            <link>https://leerob.io/blog/building-my-first-electron-app</link>
+            <guid isPermaLink="true">https://leerob.io/blog/building-my-first-electron-app</guid>
+            <pubDate>Sun, 29 Oct 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 10 Best Bars in Des Moines]]></title>
+            <description><![CDATA[Using data to determine where to drink.]]></description>
+            <link>https://leerob.io/blog/best-bars-in-des-moines</link>
+            <guid isPermaLink="true">https://leerob.io/blog/best-bars-in-des-moines</guid>
+            <pubDate>Sun, 13 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Calibrate San Francisco]]></title>
+            <description><![CDATA[What I learned from this engineering management conference.]]></description>
+            <link>https://leerob.io/blog/calibrate-san-francisco</link>
+            <guid isPermaLink="true">https://leerob.io/blog/calibrate-san-francisco</guid>
+            <pubDate>Mon, 02 Oct 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build vs. Buy]]></title>
+            <description><![CDATA[What decisions go into evaluating software solutions?]]></description>
+            <link>https://leerob.io/blog/build-vs-buy</link>
+            <guid isPermaLink="true">https://leerob.io/blog/build-vs-buy</guid>
+            <pubDate>Tue, 25 Sep 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Configuring Sentry for Next.js Apps]]></title>
+            <description><![CDATA[Learn how to set up Sentry to capture client-side and server-side exceptions for Next.js applications.]]></description>
+            <link>https://leerob.io/blog/configuring-sentry-for-nextjs-apps</link>
+            <guid isPermaLink="true">https://leerob.io/blog/configuring-sentry-for-nextjs-apps</guid>
+            <pubDate>Tue, 23 Apr 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Content Marketing to Build Your Personal Brand]]></title>
+            <description><![CDATA[How to transform your online presence, drive more traffic to your website, and sell yourself.]]></description>
+            <link>https://leerob.io/blog/content-marketing-personal-brand</link>
+            <guid isPermaLink="true">https://leerob.io/blog/content-marketing-personal-brand</guid>
+            <pubDate>Wed, 06 Dec 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Should I Style My React Application?]]></title>
+            <description><![CDATA[Learn how CSS has evolved and explore pros and cons of different styling solutions for React.]]></description>
+            <link>https://leerob.io/blog/css-with-react</link>
+            <guid isPermaLink="true">https://leerob.io/blog/css-with-react</guid>
+            <pubDate>Mon, 14 Sep 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harnessing the Google, Yelp, and Foursquare APIs with Python]]></title>
+            <description><![CDATA[A simple Python program to retrieve relevant data.]]></description>
+            <link>https://leerob.io/blog/google-yelp-foursquare-apis-python</link>
+            <guid isPermaLink="true">https://leerob.io/blog/google-yelp-foursquare-apis-python</guid>
+            <pubDate>Tue, 15 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web Fonts in 2021]]></title>
+            <description><![CDATA[Learn the best practices for high-performance sites using web fonts, updated for 2021.]]></description>
+            <link>https://leerob.io/blog/fonts</link>
+            <guid isPermaLink="true">https://leerob.io/blog/fonts</guid>
+            <pubDate>Wed, 13 Jan 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create a Dashboard with Next.js API Routes - Fetching Data with SWR]]></title>
+            <description><![CDATA[Learn how to fetch data with SWR, a React Hooks library which improves the developer experience of retrieving data.]]></description>
+            <link>https://leerob.io/blog/fetching-data-with-swr</link>
+            <guid isPermaLink="true">https://leerob.io/blog/fetching-data-with-swr</guid>
+            <pubDate>Mon, 24 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gumroad API with Node.js]]></title>
+            <description><![CDATA[The missing documentation for making requests to the Gumroad API from Node.js.]]></description>
+            <link>https://leerob.io/blog/gumroad-node-api</link>
+            <guid isPermaLink="true">https://leerob.io/blog/gumroad-node-api</guid>
+            <pubDate>Wed, 15 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GraphQL at Hy-Vee]]></title>
+            <description><![CDATA[Learn about how we've adopted GraphQL at Hy-Vee to improve developer efficiency and enhance our user experience.]]></description>
+            <link>https://leerob.io/blog/graphql-at-hy-vee</link>
+            <guid isPermaLink="true">https://leerob.io/blog/graphql-at-hy-vee</guid>
+            <pubDate>Wed, 30 Oct 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Stripe Designs Beautiful Websites]]></title>
+            <description><![CDATA[Examining the tips and tricks used to make Stripe's website design a notch above the rest.]]></description>
+            <link>https://leerob.io/blog/how-stripe-designs-beautiful-websites</link>
+            <guid isPermaLink="true">https://leerob.io/blog/how-stripe-designs-beautiful-websites</guid>
+            <pubDate>Sat, 02 Dec 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Want to Become a Better Developer? Here's How]]></title>
+            <description><![CDATA[Five simple things you can do to separate yourself from your peers and become the best developer.]]></description>
+            <link>https://leerob.io/blog/how-to-be-the-best-developer</link>
+            <guid isPermaLink="true">https://leerob.io/blog/how-to-be-the-best-developer</guid>
+            <pubDate>Wed, 10 Jul 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Head of Developer Relations]]></title>
+            <description><![CDATA[Learn about how I moved into this role, my plans for the future, and an opportunity to join the team.]]></description>
+            <link>https://leerob.io/blog/head-of-devrel</link>
+            <guid isPermaLink="true">https://leerob.io/blog/head-of-devrel</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Fix Technical Recruiting]]></title>
+            <description><![CDATA[Learn how to place engineers in this competitive market from a 45-minute keynote speech given at Talent42 in Seattle.]]></description>
+            <link>https://leerob.io/blog/how-to-fix-technical-recruiting</link>
+            <guid isPermaLink="true">https://leerob.io/blog/how-to-fix-technical-recruiting</guid>
+            <pubDate>Tue, 09 Jul 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iowa Caucuses Should Not Have Used An App]]></title>
+            <description><![CDATA[Four days later, the Iowa Caucuses have finally finished. Yet, we're just now seeing the results. What the hell happened?]]></description>
+            <link>https://leerob.io/blog/iowa-caucuses</link>
+            <guid isPermaLink="true">https://leerob.io/blog/iowa-caucuses</guid>
+            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Print in React Using Iframes]]></title>
+            <description><![CDATA[Learn how to use iframes to print React components while only printing what's necessary.]]></description>
+            <link>https://leerob.io/blog/how-to-print-in-react-using-iframes</link>
+            <guid isPermaLink="true">https://leerob.io/blog/how-to-print-in-react-using-iframes</guid>
+            <pubDate>Tue, 04 Jun 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Backpacking Italy]]></title>
+            <description><![CDATA[My recap of 10 days backpacking across Italy - Venice, Cinque Terre, and the Almafi Coast.]]></description>
+            <link>https://leerob.io/blog/italy</link>
+            <guid isPermaLink="true">https://leerob.io/blog/italy</guid>
+            <pubDate>Thu, 24 Oct 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joining Hy-Vee]]></title>
+            <description><![CDATA[Starting the next chapter of my career.]]></description>
+            <link>https://leerob.io/blog/joining-hy-vee</link>
+            <guid isPermaLink="true">https://leerob.io/blog/joining-hy-vee</guid>
+            <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Should You Learn Next.js?]]></title>
+            <description><![CDATA[Understand the growth behind JavaScript's hottest web framework and learn why Next.js can help you build web applications faster.]]></description>
+            <link>https://leerob.io/blog/learn-nextjs</link>
+            <guid isPermaLink="true">https://leerob.io/blog/learn-nextjs</guid>
+            <pubDate>Thu, 07 Nov 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learning CSS Animations by Example]]></title>
+            <description><![CDATA[A quick tutorial for making a logo swirl.]]></description>
+            <link>https://leerob.io/blog/learning-css-animations-by-example</link>
+            <guid isPermaLink="true">https://leerob.io/blog/learning-css-animations-by-example</guid>
+            <pubDate>Sat, 04 Nov 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life at Workiva]]></title>
+            <description><![CDATA[Learn what exactly my job looks like on a daily basis.]]></description>
+            <link>https://leerob.io/blog/life-at-workiva</link>
+            <guid isPermaLink="true">https://leerob.io/blog/life-at-workiva</guid>
+            <pubDate>Fri, 21 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating a Loading Placeholder with Sass]]></title>
+            <description><![CDATA[Using animation to simulate loading text content.]]></description>
+            <link>https://leerob.io/blog/loading-placeholder-with-sass</link>
+            <guid isPermaLink="true">https://leerob.io/blog/loading-placeholder-with-sass</guid>
+            <pubDate>Sun, 12 Nov 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create A Newsletter with Next.js API Routes and Mailchimp]]></title>
+            <description><![CDATA[Learn how to integrate Next.js and React with Mailchimp to build a newsletter subscription form.]]></description>
+            <link>https://leerob.io/blog/mailchimp-next-js</link>
+            <guid isPermaLink="true">https://leerob.io/blog/mailchimp-next-js</guid>
+            <pubDate>Sun, 10 Nov 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Improving My Next.js MDX Blog]]></title>
+            <description><![CDATA[I revamped my personal site, adding a variety of improvements for the ideal Next.js + MDX blogging experience.]]></description>
+            <link>https://leerob.io/blog/mdx</link>
+            <guid isPermaLink="true">https://leerob.io/blog/mdx</guid>
+            <pubDate>Sun, 29 Mar 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Migrating to Hugo]]></title>
+            <description><![CDATA[Why I chose this static site generator and the benefits you can receive.]]></description>
+            <link>https://leerob.io/blog/migrating-to-hugo</link>
+            <guid isPermaLink="true">https://leerob.io/blog/migrating-to-hugo</guid>
+            <pubDate>Fri, 29 Sep 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Life Behind the Lens]]></title>
+            <description><![CDATA[Learn how I got into videography and where I'm headed next.]]></description>
+            <link>https://leerob.io/blog/my-life-behind-the-lens</link>
+            <guid isPermaLink="true">https://leerob.io/blog/my-life-behind-the-lens</guid>
+            <pubDate>Sat, 04 Feb 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Static Sites with Next.js 9.3 and Prisma]]></title>
+            <description><![CDATA[Learn how to build & deploy a static site using Next.js, Prisma, and a SQLite database.]]></description>
+            <link>https://leerob.io/blog/next-prisma</link>
+            <guid isPermaLink="true">https://leerob.io/blog/next-prisma</guid>
+            <pubDate>Wed, 08 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Authentication Patterns for Next.js]]></title>
+            <description><![CDATA[Learn how to add authentication with Next.js. The guide covers custom React Hooks, protecting routes and redirecting on the server, and includes a variety of examples.]]></description>
+            <link>https://leerob.io/blog/nextjs-authentication</link>
+            <guid isPermaLink="true">https://leerob.io/blog/nextjs-authentication</guid>
+            <pubDate>Mon, 17 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Going Serverless with Next.js and Firebase]]></title>
+            <description><![CDATA[Learn how to build a serverless application with Next.js, Firebase, Cloud Firestore, and easily deploy it with Vercel.]]></description>
+            <link>https://leerob.io/blog/nextjs-firebase-serverless</link>
+            <guid isPermaLink="true">https://leerob.io/blog/nextjs-firebase-serverless</guid>
+            <pubDate>Fri, 19 Jul 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next.js vs. Gatsby vs. Create React App]]></title>
+            <description><![CDATA[Which is the best for building React applications? Explore the pros and cons for all three options to make the right choice.]]></description>
+            <link>https://leerob.io/blog/nextjs-gatsby-create-react-app</link>
+            <guid isPermaLink="true">https://leerob.io/blog/nextjs-gatsby-create-react-app</guid>
+            <pubDate>Tue, 12 Nov 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create a Dynamic Sitemap with Next.js]]></title>
+            <description><![CDATA[Learn how to add a dynamic sitemap to your Next.js project, along with a robots.txt file for optimal SEO.]]></description>
+            <link>https://leerob.io/blog/nextjs-sitemap-robots</link>
+            <guid isPermaLink="true">https://leerob.io/blog/nextjs-sitemap-robots</guid>
+            <pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Optimizing My Digital Content Consumption]]></title>
+            <description><![CDATA[Using RSS to aggregate and simplify how I consume media.]]></description>
+            <link>https://leerob.io/blog/optimizing-my-digital-content-consumption</link>
+            <guid isPermaLink="true">https://leerob.io/blog/optimizing-my-digital-content-consumption</guid>
+            <pubDate>Wed, 11 Jul 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Purpose-Driven Work]]></title>
+            <description><![CDATA[We spend ~13 years of our life at work, so it's pretty important we enjoy what we're doing and that it connects with our core values. How can you find purpose-driven work?]]></description>
+            <link>https://leerob.io/blog/purpose-driven-work</link>
+            <guid isPermaLink="true">https://leerob.io/blog/purpose-driven-work</guid>
+            <pubDate>Sun, 10 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Past, Present, and Future of React State Management]]></title>
+            <description><![CDATA[Learn about the history of state management in React and what the preferred solutions are today.]]></description>
+            <link>https://leerob.io/blog/react-state-management</link>
+            <guid isPermaLink="true">https://leerob.io/blog/react-state-management</guid>
+            <pubDate>Tue, 02 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real-Time Blog Post Views With Next.js and Firebase]]></title>
+            <description><![CDATA[Want more accurate page view counts? Learn how to track real-time post views using Firebase and Next.js.]]></description>
+            <link>https://leerob.io/blog/real-time-post-views</link>
+            <guid isPermaLink="true">https://leerob.io/blog/real-time-post-views</guid>
+            <pubDate>Wed, 21 Aug 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You Don't Need A Two-Page Resume]]></title>
+            <description><![CDATA[Want a better programming resume? Limit it to a single page. See how my resume has transformed over the past five years with some actionable advice.]]></description>
+            <link>https://leerob.io/blog/resume</link>
+            <guid isPermaLink="true">https://leerob.io/blog/resume</guid>
+            <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Serverless Redis with Next.js]]></title>
+            <description><![CDATA[Did you know it's possible to use Redis for your entire database? Hashmaps, counters, sorted lists, and even queues. Learn how to deploy a Redis & Next.js app in a few short minutes.]]></description>
+            <link>https://leerob.io/blog/serverless-redis-nextjs</link>
+            <guid isPermaLink="true">https://leerob.io/blog/serverless-redis-nextjs</guid>
+            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating a Space Invaders Clone with Python]]></title>
+            <description><![CDATA[Utilizing Python and PyGame to revive a classic.]]></description>
+            <link>https://leerob.io/blog/space-invaders-with-python</link>
+            <guid isPermaLink="true">https://leerob.io/blog/space-invaders-with-python</guid>
+            <pubDate>Fri, 31 Oct 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using the Spotify API with Next.js]]></title>
+            <description><![CDATA[Learn how to authenticate with the Spotify API to fetch your top tracks in a Next.js API route.]]></description>
+            <link>https://leerob.io/blog/spotify-api-nextjs</link>
+            <guid isPermaLink="true">https://leerob.io/blog/spotify-api-nextjs</guid>
+            <pubDate>Tue, 21 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Wasting Your Time]]></title>
+            <description><![CDATA[Studies show happiness is correlated to the amount of free time we have. So why is everyone always busy?]]></description>
+            <link>https://leerob.io/blog/stop-wasting-your-time</link>
+            <guid isPermaLink="true">https://leerob.io/blog/stop-wasting-your-time</guid>
+            <pubDate>Thu, 11 Apr 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Switching to Tailwind CSS]]></title>
+            <description><![CDATA[Learn why I switched my Next.js blog to use Tailwind CSS and how it impacted performance.]]></description>
+            <link>https://leerob.io/blog/tailwind</link>
+            <guid isPermaLink="true">https://leerob.io/blog/tailwind</guid>
+            <pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I Turned an Idea into $7K by Teaching Online]]></title>
+            <description><![CDATA[Six months ago, I had an idea for an online course. Today, I've taught students all over the world and made over $7,000 teaching online.]]></description>
+            <link>https://leerob.io/blog/teach-online</link>
+            <guid isPermaLink="true">https://leerob.io/blog/teach-online</guid>
+            <pubDate>Fri, 08 May 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Technical Recruiting is Broken]]></title>
+            <description><![CDATA[Why is there so much recruiter spam? What can we do to fix technical recruiting?]]></description>
+            <link>https://leerob.io/blog/technical-recruiting-is-broken</link>
+            <guid isPermaLink="true">https://leerob.io/blog/technical-recruiting-is-broken</guid>
+            <pubDate>Sun, 17 Feb 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Search for Everything]]></title>
+            <description><![CDATA[Leaving my comfort zone and working remotely in Bali, Indonesia.]]></description>
+            <link>https://leerob.io/blog/the-search-for-everything</link>
+            <guid isPermaLink="true">https://leerob.io/blog/the-search-for-everything</guid>
+            <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Things I've Learned Building Next.js Apps]]></title>
+            <description><![CDATA[CSS Modules, Font Loading, Polyfills, Dynamic Imports, MDX, and more!]]></description>
+            <link>https://leerob.io/blog/things-ive-learned-building-nextjs-apps</link>
+            <guid isPermaLink="true">https://leerob.io/blog/things-ive-learned-building-nextjs-apps</guid>
+            <pubDate>Fri, 15 Feb 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a UI Component Library with Styled Components]]></title>
+            <description><![CDATA[At Hy-Vee, we reached a point where we were spinning up new teams extremely quickly and needed to maintain consistency across products.]]></description>
+            <link>https://leerob.io/blog/ui-component-library-with-styled-components</link>
+            <guid isPermaLink="true">https://leerob.io/blog/ui-component-library-with-styled-components</guid>
+            <pubDate>Tue, 12 Feb 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unplanned Road Trips & Expectations]]></title>
+            <description><![CDATA[Learning to say yes to the unexpected and embracing change.]]></description>
+            <link>https://leerob.io/blog/unplanned-roadtrips-and-expectations</link>
+            <guid isPermaLink="true">https://leerob.io/blog/unplanned-roadtrips-and-expectations</guid>
+            <pubDate>Thu, 22 Mar 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What I’ve Learned From 4 (or 5) Years of College]]></title>
+            <description><![CDATA[Reflections on my college years and advice I wish I knew from the start.]]></description>
+            <link>https://leerob.io/blog/what-ive-learned-from-4-or-5-years-of-college</link>
+            <guid isPermaLink="true">https://leerob.io/blog/what-ive-learned-from-4-or-5-years-of-college</guid>
+            <pubDate>Mon, 02 May 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create a Dashboard with Next.js API Routes - Google Analytics API]]></title>
+            <description><![CDATA[Learn how to use Next.js API routes to integrate with the Google Analytics API and retrieve statistics about a site.]]></description>
+            <link>https://leerob.io/blog/google-analytics-api-nextjs</link>
+            <guid isPermaLink="true">https://leerob.io/blog/google-analytics-api-nextjs</guid>
+            <pubDate>Tue, 18 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create a Dashboard with Next.js API Routes - Unsplash API]]></title>
+            <description><![CDATA[Learn how to use Next.js API routes to integrate with the Unsplash API and retrieve statistics about a user.]]></description>
+            <link>https://leerob.io/blog/unsplash-api-nextjs</link>
+            <guid isPermaLink="true">https://leerob.io/blog/unsplash-api-nextjs</guid>
+            <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I Switched From CircleCI to GitHub Actions]]></title>
+            <description><![CDATA[Can GitHub Actions relace CircleCI entirely? Find out why I decided to switch CI/CD providers to GitHub Actions.]]></description>
+            <link>https://leerob.io/blog/github-actions</link>
+            <guid isPermaLink="true">https://leerob.io/blog/github-actions</guid>
+            <pubDate>Sun, 15 Sep 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I Create Open-Source Software]]></title>
+            <description><![CDATA[Creating open-source software makes me happy. It’s an opportunity for me to showcase my programming skills and gain experience with new languages and frameworks.]]></description>
+            <link>https://leerob.io/blog/why-i-create-open-source-software</link>
+            <guid isPermaLink="true">https://leerob.io/blog/why-i-create-open-source-software</guid>
+            <pubDate>Sun, 06 Jan 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Zero Programming Experience to Three Internships]]></title>
+            <description><![CDATA[How I preserved through college and got the job of my dreams.]]></description>
+            <link>https://leerob.io/blog/zero-programming-experience-to-three-internships</link>
+            <guid isPermaLink="true">https://leerob.io/blog/zero-programming-experience-to-three-internships</guid>
+            <pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Essential Software/Hardware List]]></title>
+            <description><![CDATA[Exploring the tools I use daily for work and personal use.]]></description>
+            <link>https://leerob.io/blog/my-essential-software-hardware-list</link>
+            <guid isPermaLink="true">https://leerob.io/blog/my-essential-software-hardware-list</guid>
+            <pubDate>Tue, 31 Jul 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Mapbox with Next.js (Instead of Google Maps)]]></title>
+            <description><![CDATA[Learn how to use Mapbox with Next.js to create a non-SSR map component that is free up to 50,000 map views per month.]]></description>
+            <link>https://leerob.io/blog/using-mapbox-with-next-js</link>
+            <guid isPermaLink="true">https://leerob.io/blog/using-mapbox-with-next-js</guid>
+            <pubDate>Sun, 13 Jan 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create a Dashboard with Next.js API Routes - YouTube API]]></title>
+            <description><![CDATA[Learn how to use Next.js API routes to integrate with the YouTube API and retrieve statistics about a channel.]]></description>
+            <link>https://leerob.io/blog/youtube-api-nextjs</link>
+            <guid isPermaLink="true">https://leerob.io/blog/youtube-api-nextjs</guid>
+            <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Use Encrypted Secrets With Vercel]]></title>
+            <description><![CDATA[Learn how to encrypt secrets to workaround Vercel's 4kb max limit for environment variables.]]></description>
+            <link>https://leerob.io/blog/vercel-env-variables-size-limit</link>
+            <guid isPermaLink="true">https://leerob.io/blog/vercel-env-variables-size-limit</guid>
+            <pubDate>Thu, 06 Feb 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Days in Norway]]></title>
+            <description><![CDATA[Visualize my journey through the scenic lands of Norway with rich, stunning pictures and daily travel logs.]]></description>
+            <link>https://leerob.io/blog/10-days-in-norway</link>
+            <guid isPermaLink="true">https://leerob.io/blog/10-days-in-norway</guid>
+            <pubDate>Sat, 15 Jul 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which Back End Should I Use As A Front-End Developer?]]></title>
+            <description><![CDATA[Choosing a service to store data can be confusing and overwhelming for a front-end developer. This comprehensive guide is a choose your own adventure dive into creating your backend.]]></description>
+            <link>https://leerob.io/blog/backend</link>
+            <guid isPermaLink="true">https://leerob.io/blog/backend</guid>
+            <pubDate>Sun, 09 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with Dart & React]]></title>
+            <description><![CDATA[Building a todo list from start to finish.]]></description>
+            <link>https://leerob.io/blog/getting-started-with-dart-and-react</link>
+            <guid isPermaLink="true">https://leerob.io/blog/getting-started-with-dart-and-react</guid>
+            <pubDate>Sat, 25 Nov 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating a Monorepo with Lerna & Yarn Workspaces]]></title>
+            <description><![CDATA[In this guide, you will learn how to create a Monorepo to manage multiple packages with a shared build, test, and release process.]]></description>
+            <link>https://leerob.io/blog/monorepo-lerna-yarn-workspaces</link>
+            <guid isPermaLink="true">https://leerob.io/blog/monorepo-lerna-yarn-workspaces</guid>
+            <pubDate>Fri, 29 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Everything I Know About Style Guides, Design Systems, and Component Libraries]]></title>
+            <description><![CDATA[A deep-dive on everything I've learned in the past year building style guides, design systems, component libraries, and their best practices.]]></description>
+            <link>https://leerob.io/blog/style-guides-component-libraries-design-systems</link>
+            <guid isPermaLink="true">https://leerob.io/blog/style-guides-component-libraries-design-systems</guid>
+            <pubDate>Wed, 07 Aug 2019 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

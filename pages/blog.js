@@ -6,9 +6,9 @@ import BlogPost from '@/components/BlogPost';
 import { getAllFilesFrontMatter } from '@/lib/mdx';
 
 const url = 'https://leerob.io/blog';
-const title = 'Blog – Lee Robinson';
+const title = 'Blog – Akshay Praveen Nair';
 const description =
-  'Thoughts on the software industry, programming, tech, videography, music, and my personal life.';
+  'Thoughts on daily life, programming, tech, code.';
 
 export default function Blog({ posts }) {
   const [searchValue, setSearchValue] = useState('');
@@ -38,8 +38,7 @@ export default function Blog({ posts }) {
           Blog
         </h1>
         <p className="text-gray-600 dark:text-gray-400 mb-4">
-          {`I've been writing online since 2014, mostly about web development and tech careers.
-            In total, I've written ${posts.length} articles on this site.
+          {`I've been writing online since 2019. In total, I've written ${posts.length} articles on this site.
             Use the search below to filter by title.`}
         </p>
         <div className="relative w-full mb-4">

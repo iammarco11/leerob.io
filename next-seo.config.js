@@ -1,6 +1,6 @@
-const title = 'Lee Robinson – Developer, writer, creator.';
+const title = 'Akshay Praveen Nair – Developer, student, creator.';
 const description =
-  'Front-end developer, JavaScript enthusiast, and course creator.';
+  'Undergraduate student, .';
 
 const SEO = {
   title,
@@ -22,8 +22,8 @@ const SEO = {
     ]
   },
   twitter: {
-    handle: '@leeerob',
-    site: '@leeerob',
+    handle: '@akshay_11',
+    site: '@akshay_11',
     cardType: 'summary_large_image'
   }
 };

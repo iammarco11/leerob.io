@@ -6,12 +6,12 @@ export default function UsesLayout({ children }) {
   return (
     <Container>
       <NextSeo
-        title="Uses – Lee Robinson"
+        title="Uses – Akshay Praveen Nair"
         description={`Here's what tech I'm currently using for coding, videos, and music.`}
         canonical="https://leerob.io/uses"
         openGraph={{
           url: 'https://leerob.io/uses',
-          title: 'Uses – Lee Robinson',
+          title: 'Uses – Akshay Praveen Nair',
           description: `Here's what tech I'm currently using for coding, videos, and music.`
         }}
       />
