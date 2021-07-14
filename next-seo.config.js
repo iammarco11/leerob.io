@@ -22,8 +22,8 @@ const SEO = {
     ]
   },
   twitter: {
-    handle: '@akshay_11',
-    site: '@akshay_11',
+    handle: '@akshaay_11',
+    site: '@akshaay_11',
     cardType: 'summary_large_image'
   }
 };
