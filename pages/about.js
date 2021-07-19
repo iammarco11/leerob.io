@@ -52,23 +52,7 @@ export default function About() {
         </h1>
         <div className="mb-8 prose leading-6 text-gray-600 dark:text-gray-400">
           <p>
-            Hey, I’m Akshay. I'm a developer, writer, and the creator of&nbsp;
-            <a
-              href="https://masteringnextjs.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Mastering Next.js
-            </a>
-            &nbsp;and&nbsp;
-            <a
-              href="https://react2025.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              React 2025.
-            </a>
-            &nbsp;I work at ▲Vercel as a Solutions Architect.
+          I’m a developer, writer, and creator. I usually contribute to open source communities like KDE, OpenWorm, amFOSS. Recently I have been working on data science.
           </p>
           <p>
             I’ve spoken across the country at conferences and meet-ups about
