@@ -18,19 +18,19 @@ export default function Home() {
           Most Popular
         </h3>
         <BlogPost
-          title="Everything I Know About Style Guides, Design Systems, and Component Libraries"
-          summary="A deep-dive on everything I've learned in the past year building style guides, design systems, component libraries, and their best practices."
-          slug="style-guides-component-libraries-design-systems"
+          title="My first 3 weeks of SoK"
+          summary="My first 3 weeks progress of working with the new templates for umbrello"
+          slug="first-three-weeks-of-sok"
         />
         <BlogPost
-          title="How Stripe Designs Beautiful Websites"
-          summary="Examining the tips and tricks used to make Stripe's website design a notch above the rest."
-          slug="how-stripe-designs-beautiful-websites"
+          title="My Final 2 weeks of SoK!"
+          summary="My final progress of Summer of KDE"
+          slug="final-sok"
         />
         <BlogPost
-          title="Creating a Monorepo with Lerna & Yarn Workspaces"
-          summary="In this guide, you will learn how to create a Monorepo to manage multiple packages with a shared build, test, and release process."
-          slug="monorepo-lerna-yarn-workspaces"
+          title="How to control backlight of ubuntu 18.04 for asus rog strix scar"
+          summary="In this guide, you will learn how to control the RGB keyboards of Asus Rog in ubuntu."
+          slug="rog-ubuntu-rgb-keyboard-control"
         />
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white">
           Projects
