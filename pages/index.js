@@ -36,22 +36,19 @@ export default function Home() {
           Projects
         </h3>
         <ProjectCard
-          title="React 2025"
-          description="Build and deploy a modern Jamstack application using the most popular open-source software."
-          href="https://react2025.com/"
+          title="NaWaB"
+          description="NaWaB is a bot which shares all sorts of information regarding Computer Networks scraping twitter content. It
+          sends the tweets to the telegram user with view and retweet option."
+          href="https://github.com/Team-SYNACKd/NaWaB"
           icon="react2025"
         />
         <ProjectCard
-          title="Learn Next.js"
-          description="A free video course for building static and server-side rendered applications with Next.js and React."
-          href="https://masteringnextjs.com/"
-          icon="nextjs"
-        />
-        <ProjectCard
-          title="Fast Feedback"
-          description="The easiest way to add comments or reviews to your static site. Built as part of React 2025."
-          href="https://fastfeedback.io/"
-          icon="fastfeedback"
+          title="amFOSS.in"
+          description="Worked on the backend code of CMS made using Django. Added events model and also integrated a Discord
+          bot(Ch0wikidhar) using the REST API which would send messages to the desired group after fetching data
+          from CMS."
+          href="https://amfoss.in"
+          icon="react2025"
         />
         <Timeline />
         <Subscribe />
