@@ -47,7 +47,7 @@ export default function Dashboard() {
         <p className="text-gray-600 dark:text-gray-400 mb-4">
           I don't wish to share my spotify, I usually listen to old grunge rock and rock classics before the 90s.
           Some bands like Nirvana, Beatles, AC/DC, Guns N Roses, Led Zeppelin, Metallica etc. I also listen to modern British
-          rock sometimes, mainly by Arctic Monkeys, Glass Animals and Alt-J.
+          rock sometimes, mainly by Arctic Monkeys, Glass Animals and Alt-J. I don't mind house music or EDMs, share your playlists xD.
         </p>
         <TopTracks />
       </div>
