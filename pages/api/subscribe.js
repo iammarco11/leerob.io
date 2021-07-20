@@ -1,3 +1,10 @@
+import mailchimp from '@mailchimp/mailchimp_marketing';
+
+mailchimp.setConfig({
+  apiKey: process.env.MAILCHIMP_API_KEY,
+  server: process.env.MAILCHIMP_API_SERVER // e.g. us1
+});
+
 export default async (req, res) => {
   const { email } = req.body;
 
@@ -6,35 +13,10 @@ export default async (req, res) => {
   }
 
   try {
-    const API_KEY = process.env.BUTTONDOWN_API_KEY;
-    const response = await fetch(
-      `https://api.buttondown.email/v1/subscribers`,
-      {
-        body: JSON.stringify({
-          email,
-          tags: ['leerob.io']
-        }),
-        headers: {
-          Authorization: `Token ${API_KEY}`,
-          'Content-Type': 'application/json'
-        },
-        method: 'POST'
-      }
-    );
-
-    if (response.status >= 400) {
-      const text = await response.text();
-
-      if (text.includes('already subscribed')) {
-        return res.status(400).json({
-          error: `You're already subscribed to my mailing list.`
-        });
-      }
-
-      return res.status(400).json({
-        error: text
-      });
-    }
+    await mailchimp.lists.addListMember(process.env.MAILCHIMP_AUDIENCE_ID, {
+      email_address: email,
+      status: 'subscribed'
+    });
 
     return res.status(201).json({ error: '' });
   } catch (error) {
