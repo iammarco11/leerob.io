@@ -1,15 +1,61 @@
-import React, { useRef, useState } from 'react';
+import { useState, useRef } from 'react';
+import Link from 'next/link';
+import useSWR from 'swr';
+import format from 'comma-number';
+import { trackGoal } from 'fathom-client';
+
+import fetcher from '@/lib/fetcher';
+
+function ErrorMessage({ children }) {
+  return (
+    <p className="flex items-center text-sm font-bold text-red-800 dark:text-red-400">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 20 20"
+        fill="currentColor"
+        className="mr-2 h-4 w-4"
+      >
+        <path
+          fillRule="evenodd"
+          d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7 4a1 1 0 11-2 0 1 1 0 012 0zm-1-9a1 1 0 00-1 1v4a1 1 0 102 0V6a1 1 0 00-1-1z"
+          clipRule="evenodd"
+        />
+      </svg>
+      {children}
+    </p>
+  );
+}
+
+function SuccessMessage({ children }) {
+  return (
+    <p className="flex items-center text-sm font-bold text-green-800 dark:text-green-400">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 20 20"
+        fill="currentColor"
+        className="mr-2 h-4 w-4"
+      >
+        <path
+          fillRule="evenodd"
+          d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+          clipRule="evenodd"
+        />
+      </svg>
+      {children}
+    </p>
+  );
+}
 
 export default function Subscribe() {
-  // 1. Create a reference to the input so we can fetch/clear it's value.
+  const [form, setForm] = useState(false);
   const inputEl = useRef(null);
-  // 2. Hold a message in state to handle the response from our API.
-  const [message, setMessage] = useState('');
+  const { data } = useSWR('/api/subscribers', fetcher);
+  const subscriberCount = format(data?.count);
 
   const subscribe = async (e) => {
     e.preventDefault();
+    setForm({ state: 'loading' });
 
-    // 3. Send a request to our API with the user's email address.
     const res = await fetch('/api/subscribe', {
       body: JSON.stringify({
         email: inputEl.current.value
@@ -21,17 +67,20 @@ export default function Subscribe() {
     });
 
     const { error } = await res.json();
-
     if (error) {
-      // 4. If there was an error, update the message in state.
-      setMessage(error);
-
+      setForm({
+        state: 'error',
+        message: error
+      });
       return;
     }
 
-    // 5. Clear the input value and show a success message.
+    trackGoal('JYFUFMSF', 0);
     inputEl.current.value = '';
-    setMessage('Success! 🎉 You are now subscribed to the newsletter.');
+    setForm({
+      state: 'success',
+      message: `Hooray! You're now on the list.`
+    });
   };
 
   return (
