@@ -1,9 +1,8 @@
 import { useState, useRef } from 'react';
 import Link from 'next/link';
-import useSWR from 'swr';
 import { trackGoal } from 'fathom-client';
+import { subscribers } from '../pages/api/subscribers';
 
-import fetcher from '@/lib/fetcher';
 import SuccessMessage from '@/components/SuccessMessage';
 import ErrorMessage from '@/components/ErrorMessage';
 import LoadingSpinner from '@/components/LoadingSpinner';
@@ -11,8 +10,15 @@ import LoadingSpinner from '@/components/LoadingSpinner';
 export default function Subscribe() {
   const [form, setForm] = useState(false);
   const inputEl = useRef(null);
-  const { data } = useSWR('/api/subscribers', fetcher);
-  const subscriberCount = new Number(data?.count);
+  
+  const subscriberCount = async (e) => {
+    e.preventDefault();
+    var res = await subscribers();
+    console.log(res)
+    return res;
+  };
+
+  console.log(subscriberCount);
 
   const subscribe = async (e) => {
     e.preventDefault();
