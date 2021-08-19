@@ -1,11 +1,19 @@
 import { google } from 'googleapis';
 
-import googleAuth from '@/lib/google/auth';
+let googleAuth;
 
 export default async (_, res) => {
-  const auth = await googleAuth.getClient();
+  googleAuth = new google.auth.GoogleAuth({
+    credentials: {
+      client_email: process.env.GOOGLE_CLIENT_EMAIL,
+      client_id: process.env.GOOGLE_CLIENT_ID,
+      private_key: process.env.GOOGLE_PRIVATE_KEY
+    },
+    scopes: ['https://www.googleapis.com/auth/youtube.readonly']
+  });
+
   const youtube = google.youtube({
-    auth,
+    auth: googleAuth,
     version: 'v3'
   });
 
@@ -16,11 +24,6 @@ export default async (_, res) => {
 
   const channel = response.data.items[0];
   const { subscriberCount, viewCount } = channel.statistics;
-
-  res.setHeader(
-    'Cache-Control',
-    'public, s-maxage=1200, stale-while-revalidate=600'
-  );
 
   return res.status(200).json({
     subscriberCount,
